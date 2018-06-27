@@ -1,0 +1,14 @@
+#----------------------------------------------------------------
+# CEDA Selection file
+# Result of this selection should be:
+# 597 file(s) will be added to the download queue.
+# Once downloaded, 900.5 GB of additional disk space will be used.
+#-----------------------------------------------------------------
+project=CMIP5
+data_node=esgf-data1.ceda.ac.uk
+latest=true
+protocol=gridftp
+model=HadGEM2-ES
+experiment=rcp26 rcp45 rcp60 rcp85
+frequency=3hr
+realm=atmos

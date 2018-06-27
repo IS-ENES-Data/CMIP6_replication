@@ -1,0 +1,3 @@
+yaml file will be maintained at: 
+
+- https://gitlab.dkrz.de/ESMValGroup/cmip6-request

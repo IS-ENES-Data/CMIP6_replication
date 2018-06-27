@@ -1,0 +1,17 @@
+#----------------------------------------------------------------
+# NCI Selection file
+# Result of this selection should be:
+# 310 file added to the download queue.
+# Once downloaded, 362.4 GB of additional disk space will be used.
+#-----------------------------------------------------------------
+project=CMIP5
+data_node=esgf.nci.org.au
+model=ACCESS1-3
+latest=true
+protocol=gridftp
+frequency=mon
+experiment=rcp85
+ensemble=r1i1p1
+realm=ocean
+
+

@@ -1,0 +1,8 @@
+project=CMIP5
+data_node=esgf1.dkrz.de
+latest=true
+protocol=gridftp
+model=MPI-ESM-LR
+experiment=rcp45
+frequency=mon
+realm=atmos

@@ -1,0 +1,10 @@
+# Total files count: 271
+# Total size: 728.0 GB
+project=CMIP5
+data_node=vesg.ipsl.upmc.fr
+model=IPSL-CM5A-LR
+protocol=gridftp
+frequency=day
+realm=atmos
+experiment=1pctCO2
+ensemble=r1i1p1
