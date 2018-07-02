@@ -1,0 +1,6 @@
+project=CMIP6
+institute=IPSL
+model=IPSL-CM6A-LR
+experiment=esm-hist-ext
+ScenarioMIP,=CFMIP
+variable="ta ta700 tas tasAdjust tasmax tasmin prAdjust pr_atm ua uas va vas ts tsAdjust tsice tslsi zg hus huss psl pslAdjust ps thetao thetaoga hur hurs rhs rhsmax rhsmin sfcWind sfcWindmax sic rsds_atm rsdssi clt cltcalipso cltisccp wmo tos tso rlds_atm rldssi so soga rlut rlut4co2 snd rlus rlussi wmosq rsus rsussi rsut rsut4co2"
