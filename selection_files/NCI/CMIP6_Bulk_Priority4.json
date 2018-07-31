@@ -1,0 +1,33 @@
+{
+    "project": [
+        "CMIP6"
+    ],
+    "variable": [
+        "psl",
+        "tas",
+        "uas",
+        "vas",
+        "hus"
+    ],
+    "frequency": [
+        "6hr"
+    ],
+    "experiment": [
+        "1pctCO2",
+        "piControl",
+        "historical",
+        "amip",
+        "abrupt4xCO2",
+        "ssp585",
+        "ssp245"
+    ],
+    "ensemble": [
+        "r1i1p1"
+    ],
+    "priority": [
+        "5000"
+    ],
+    "repl_center": [
+        "NCI"
+    ]
+}
