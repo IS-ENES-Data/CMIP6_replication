@@ -45,6 +45,7 @@ coverage.xml
 
 # Notebook things
 .ipynb_checkpoints
+.vscode
 
 # Translations
 *.mo

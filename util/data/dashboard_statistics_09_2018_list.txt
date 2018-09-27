@@ -1,0 +1,2310 @@
+#
+	Long name
+	Code
+	CF standard name
+	Value
+1
+	Precipitation
+	pr
+	precipitation_flux
+	112080
+2
+	Near-Surface Air Temperature
+	tas
+	air_temperature
+	104863
+3
+	Daily Minimum Near-Surface Air Temperature
+	tasmin
+	air_temperature
+	68328
+4
+	Daily Maximum Near-Surface Air Temperature
+	tasmax
+	air_temperature
+	67958
+5
+	Sea Surface Temperature
+	tos
+	sea_surface_temperature
+	64911
+6
+	Convective Precipitation
+	prc
+	convective_precipitation_flux
+	50560
+7
+	Air Temperature
+	ta
+	air_temperature
+	50192
+8
+	Eastward Wind
+	ua
+	eastward_wind
+	46996
+9
+	Northward Wind
+	va
+	northward_wind
+	45319
+10
+	Sea Water Potential Temperature
+	thetao
+	sea_water_potential_temperature
+	43094
+11
+	Relative Humidity
+	hur
+	relative_humidity
+	38783
+12
+	Specific Humidity
+	hus
+	specific_humidity
+	38382
+13
+	Water Vapor Path
+	prw
+	atmosphere_water_vapor_content
+	36961
+14
+	Geopotential Height
+	zg
+	geopotential_height
+	35372
+15
+	Sea Level Pressure
+	psl
+	air_pressure_at_sea_level
+	34242
+16
+	Surface Downwelling Shortwave Radiation
+	rsds
+	surface_downwelling_shortwave_flux_in_air
+	29987
+17
+	omega (=dp/dt)
+	wap
+	lagrangian_tendency_of_air_pressure
+	28416
+18
+	Surface Downwelling Longwave Radiation
+	rlds
+	surface_downwelling_longwave_flux_in_air
+	26886
+19
+	Total Cloud Fraction
+	clt
+	cloud_area_fraction
+	26326
+20
+	Near-Surface Specific Humidity
+	huss
+	specific_humidity
+	24766
+21
+	Surface Upward Latent Heat Flux
+	hfls
+	surface_upward_latent_heat_flux
+	21822
+22
+	Evaporation
+	evspsbl
+	water_evaporation_flux
+	21372
+23
+	TOA Outgoing Longwave Radiation
+	rlut
+	toa_outgoing_longwave_flux
+	21118
+24
+	Surface Air Pressure
+	ps
+	surface_air_pressure
+	20031
+25
+	Eastward Near-Surface Wind
+	uas
+	eastward_wind
+	19906
+26
+	Northward Near-Surface Wind
+	vas
+	northward_wind
+	19459
+27
+	TOA Incident Shortwave Radiation
+	rsdt
+	toa_incoming_shortwave_flux
+	19284
+28
+	Surface Upward Sensible Heat Flux
+	hfss
+	surface_upward_sensible_heat_flux
+	16682
+29
+	Ocean Meridional Overturning Mass Streamfunction
+	msftmyz
+	ocean_meridional_overturning_mass_streamfunction
+	15874
+30
+	Surface Temperature
+	ts
+	surface_temperature
+	15134
+31
+	Near-Surface Wind Speed
+	sfcWind
+	wind_speed
+	13846
+32
+	Surface Upwelling Longwave Radiation
+	rlus
+	surface_upwelling_longwave_flux_in_air
+	13719
+33
+	Surface Upwelling Shortwave Radiation
+	rsus
+	surface_upwelling_shortwave_flux_in_air
+	13432
+34
+	TOA Outgoing Shortwave Radiation
+	rsut
+	toa_outgoing_shortwave_flux
+	13350
+35
+	Snowfall Flux
+	prsn
+	snowfall_flux
+	13308
+36
+	Sea Water Salinity
+	so
+	sea_water_salinity
+	12653
+37
+	Dissolve Oxygen Concentration
+	o2
+	dissolve_oxygen_concentration
+	12341
+38
+	Sea Ice Area Fraction
+	sic
+	sea_ice_area_fraction
+	10780
+39
+	Moisture in Upper Portion of Soil Column
+	mrsos
+	moisture_content_of_soil_layer
+	10412
+40
+	Solid Precipitation
+	prsn
+	snowfall_flux
+	10264
+41
+	TOA Outgoing Clear-Sky Longwave Radiation
+	rlutcs
+	toa_outgoing_longwave_flux_assuming_clear_sky
+	8718
+42
+	TOA Outgoing Clear-Sky Shortwave Radiation
+	rsutcs
+	toa_outgoing_shortwave_flux_assuming_clear_sky
+	7736
+43
+	Surface Downwelling Clear-Sky Shortwave Radiation
+	rsdscs
+	surface_downwelling_shortwave_flux_in_air_assuming_clear_sky
+	7579
+44
+	Surface Downward Northward Wind Stress
+	tauv
+	surface_downward_northward_stress
+	7486
+45
+	Surface Downward Eastward Wind Stress
+	tauu
+	surface_downward_eastward_stress
+	7282
+46
+	Snow Depth
+	snd
+	surface_snow_thickness
+	6900
+47
+	Sea Water X Velocity
+	uo
+	sea_water_x_velocity
+	6547
+48
+	Sea Water Y Velocity
+	vo
+	sea_water_y_velocity
+	6465
+49
+	Cloud Area Fraction
+	cl
+	cloud_area_fraction_in_atmosphere_layer
+	6043
+50
+	Sea Surface Temperature
+	tos
+	surface_temperature
+	5962
+51
+	Near-Surface Relative Humidity
+	hurs
+	relative_humidity
+	5951
+52
+	Sea Surface Height Above Geoid
+	zos
+	sea_surface_height_above_geoid
+	5666
+53
+	Total Runoff
+	mrro
+	runoff_flux
+	5551
+54
+	Condensed Water Path
+	clwvi
+	atmosphere_cloud_condensed_water_content
+	5241
+55
+	
+	lat_bounds
+	lat_bounds
+	5220
+56
+	
+	lon_bounds
+	lon_bounds
+	5220
+57
+	Total Soil Moisture Content
+	mrso
+	soil_moisture_content
+	5200
+58
+	Ice Water Path
+	clivi
+	atmosphere_cloud_ice_content
+	5053
+59
+	Net Downward Flux at Top of Model
+	rtmt
+	net_downward_radiative_flux_at_top_of_atmosphere_model
+	5041
+60
+	Air Pressure at Convective Cloud Top
+	cct
+	air_pressure_at_convective_cloud_top
+	4902
+61
+	Surface Downwelling Clear-Sky Longwave Radiation
+	rldscs
+	surface_downwelling_longwave_flux_in_air_assuming_clear_sky
+	4872
+62
+	Daily-Mean Near-Surface Wind Speed
+	sfcWind
+	wind_speed
+	4849
+63
+	Mass Fraction of Cloud Ice
+	cli
+	mass_fraction_of_cloud_ice_in_air
+	4831
+64
+	Mass Fraction of Cloud Liquid Water
+	clw
+	mass_fraction_of_cloud_liquid_water_in_air
+	4812
+65
+	Surface Snow Amount
+	snw
+	surface_snow_amount
+	4337
+66
+	Surface Upwelling Clear-Sky Shortwave Radiation
+	rsuscs
+	surface_upwelling_shortwave_flux_in_air_assuming_clear_sky
+	4183
+67
+	Sea Ice Thickness
+	sit
+	sea_ice_thickness
+	4069
+68
+	Air Pressure at Convective Cloud Base
+	ccb
+	air_pressure_at_convective_cloud_base
+	3817
+69
+	Convective Mass Flux
+	mc
+	atmosphere_net_upward_convective_mass_flux
+	3682
+70
+	Surface Snow Melt
+	snm
+	surface_snow_melt_flux
+	3252
+71
+	Snow Area Fraction
+	snc
+	surface_snow_area_fraction
+	3189
+72
+	Fraction of Time Convection Occurs
+	ci
+	convection_time_fraction
+	3110
+73
+	Surface Snow and Ice Sublimation Flux
+	sbl
+	surface_snow_and_ice_sublimation_flux
+	3069
+74
+	Ambient Aerosol Optical Thickness at 550 nm
+	od550aer
+	atmosphere_optical_thickness_due_to_ambient_aerosol
+	2717
+75
+	Water Content of Soil Layer
+	mrlsl
+	moisture_content_of_soil_layer
+	2577
+76
+	Fraction of Time Shallow Convection Occurs
+	sci
+	shallow_convection_time_fraction
+	2568
+77
+	Surface Runoff
+	mrros
+	surface_runoff_flux
+	2542
+78
+	Fraction of Time Shallow Convection Occurs
+	sci
+	fraction_of_time_shallow_convection_occurs
+	2387
+79
+	Near-Surface Relative Humidity
+	rhs
+	relative_humidity
+	2174
+80
+	Sea Surface Salinity
+	sos
+	sea_surface_salinity
+	2158
+81
+	Temperature of Soil
+	tsl
+	soil_temperature
+	2025
+82
+	Transpiration
+	tran
+	transpiration_flux
+	1958
+83
+	Mole Fraction of O3
+	tro3
+	mole_fraction_of_ozone_in_air
+	1829
+84
+	Surface Pressure
+	ps
+	surface_air_pressure
+	1758
+85
+	Air Temperature
+	tas
+	air_temperature
+	1700
+86
+	Global Average Sea Level Change
+	zosga
+	global_average_sea_level_change
+	1650
+87
+	Ocean Heat Y Transport
+	hfy
+	ocean_heat_y_transport
+	1620
+88
+	Daily Maximum Near-Surface Wind Speed
+	sfcWindmax
+	wind_speed
+	1593
+89
+	Northward Near-Surface Wind Speed
+	vas
+	northward_wind
+	1544
+90
+	Eastward Near-Surface Wind Speed
+	uas
+	eastward_wind
+	1544
+91
+	Water Evaporation from Soil
+	evspsblsoi
+	water_evaporation_flux_from_soil
+	1511
+92
+	Downward Heat Flux at Sea Water Surface
+	hfds
+	surface_downward_heat_flux_in_sea_water
+	1419
+93
+	Upward Ocean Mass Transport
+	wmo
+	upward_ocean_mass_transport
+	1413
+94
+	Leaf Area Index
+	lai
+	leaf_area_index
+	1398
+95
+	Carbon Mass in Soil Pool
+	cSoil
+	soil_carbon_content
+	1376
+96
+	Water Flux into Sea Water
+	wfo
+	water_flux_into_sea_water
+	1375
+97
+	Global Average Thermosteric Sea Level Change
+	zostoga
+	global_average_thermosteric_sea_level_change
+	1347
+98
+	Global Average Steric Sea Level Change
+	zossga
+	global_average_steric_sea_level_change
+	1302
+99
+	Ocean Heat X Transport
+	hfx
+	ocean_heat_x_transport
+	1293
+100
+	Carbon Mass Flux out of Atmosphere due to Net Primary Production on Land
+	npp
+	net_primary_productivity_of_carbon
+	1272
+101
+	Carbon Mass Flux out of Atmosphere due to Gross Primary Production on Land
+	gpp
+	gross_primary_productivity_of_carbon
+	1257
+102
+	Mole Fraction of CH4
+	ch4
+	mole_fraction_of_methane_in_air
+	1250
+103
+	Concentration of Dust
+	concdust
+	mass_concentration_of_dust_dry_aerosol_in_air
+	1236
+104
+	Evaporation from Canopy
+	evspsblveg
+	water_evaporation_flux_from_canopy
+	1099
+105
+	Surface Downward X Stress
+	tauuo
+	surface_downward_x_stress
+	1077
+106
+	Mole Fraction of N2O
+	n2o
+	mole_fraction_of_nitrous_oxide_in_air
+	1062
+107
+	Surface Downward Y Stress
+	tauvo
+	surface_downward_y_stress
+	975
+108
+	Sea Ice Albedo
+	ialb
+	sea_ice_albedo
+	954
+109
+	Global Average Sea Water Potential Temperature
+	thetaoga
+	sea_water_potential_temperature
+	929
+110
+	Carbon Mass Flux into Atmosphere due to Autotrophic (Plant) Respiration on Land
+	ra
+	plant_respiration_carbon_flux
+	914
+111
+	Net Downward Shortwave Radiation at Sea Water Surface
+	rsntds
+	net_downward_shortwave_flux_at_sea_water_surface
+	912
+112
+	Sea Water Mass
+	masso
+	sea_water_mass
+	904
+113
+	Square of Upward Ocean Mass Transport
+	wmosq
+	square_of_upward_ocean_mass_transport
+	890
+114
+	X-Component of Sea Ice Mass Transport
+	transix
+	sea_ice_x_transport
+	881
+115
+	Bare Soil Fraction
+	baresoilFrac
+	area_fraction
+	851
+116
+	Concentration of Seasalt
+	concss
+	mass_concentration_of_seasalt_dry_aerosol_in_air
+	812
+117
+	Concentration of SO4
+	concso4
+	mass_concentration_of_sulfate_dry_aerosol_in_air
+	796
+118
+	Sea Water Potential Density
+	rhopoto
+	sea_water_potential_density
+	793
+119
+	Y-Component of Sea Ice Mass Transport
+	transiy
+	sea_ice_y_transport
+	783
+120
+	Sea Ice Plus Surface Snow Amount
+	sim
+	sea_ice_and_surface_snow_amount
+	773
+121
+	Water Flux into Sea Water due to Sea Ice Thermodynamics
+	fsitherm
+	water_flux_into_sea_water_due_to_sea_ice_thermodynamics
+	770
+122
+	Soil Frozen Water Content
+	mrfso
+	soil_frozen_water_content
+	747
+123
+	Virtual Salt Flux into Sea Water due to Sea Ice Thermodynamics
+	vsfsit
+	virtual_salt_flux_into_sea_water_due_to_sea_ice_thermodynamics
+	742
+124
+	Ocean Barotropic Mass Streamfunction
+	msftbarot
+	ocean_barotropic_mass_streamfunction
+	695
+125
+	Carbon Mass Flux into Atmosphere due to Heterotrophic Respiration on Land
+	rh
+	heterotrophic_respiration_carbon_flux
+	692
+126
+	Concentration of Black Carbon Aerosol
+	concbc
+	mass_concentration_of_black_carbon_dry_aerosol_in_air
+	683
+127
+	Precipitation onto Canopy
+	prveg
+	precipitation_flux_onto_canopy
+	661
+128
+	Surface Concentration of SO4
+	sconcso4
+	mass_concentration_of_sulfate_dry_aerosol_in_air
+	653
+129
+	Eddy Viscosity Coefficient for Momentum Variables
+	evu
+	atmosphere_momentum_diffusivity
+	642
+130
+	Dissolved Nitrate Concentration at Surface
+	no3
+	mole_concentration_of_nitrate_in_sea_water
+	618
+131
+	Water Evaporation Flux from Sea Ice
+	evap
+	water_evaporation_flux
+	614
+132
+	Dissolved Inorganic Carbon Concentration at Surface
+	dissic
+	mole_concentration_of_dissolved_inorganic_carbon_in_sea_water
+	602
+133
+	Dissolved Ammonium Concentration at Surface
+	nh4
+	mole_concentration_of_ammonium_in_sea_water
+	598
+134
+	Surface Concentration of Seasalt
+	sconcss
+	mass_concentration_of_seasalt_dry_aerosol_in_air
+	593
+135
+	Surface Concentration of Dust
+	sconcdust
+	mass_concentration_of_dust_dry_aerosol_in_air
+	586
+136
+	Surface Rainfall Rate into the Sea Ice Portion of the Grid Cell
+	pr
+	rainfall_flux
+	573
+137
+	Global Mean Sea Water Salinity
+	soga
+	sea_water_salinity
+	563
+138
+	Sea Water Volume
+	volo
+	sea_water_volume
+	546
+139
+	Surface Concentration of Black Carbon Aerosol
+	sconcbc
+	mass_concentration_of_black_carbon_dry_aerosol_in_air
+	542
+140
+	Surface Daily Minimum Relative Humidity
+	rhsmin
+	relative_humidity
+	534
+141
+	Surface Downward CO2 Flux
+	fgco2
+	surface_downward_mass_flux_of_carbon_dioxide_expressed_as_carbon
+	522
+142
+	Monthly Maximum Ocean Mixed Layer Thickness Defined by Mixing Scheme
+	omlmax
+	ocean_mixed_layer_thickness_defined_by_mixing_scheme
+	515
+143
+	Sea Water Pressure at Sea floor
+	pbo
+	sea_water_pressure_at_sea_floor
+	513
+144
+	Rainfall Flux where Ice Free Ocean over Sea
+	pr
+	rainfall_flux
+	508
+145
+	Water Flux into Sea Water From Rivers
+	friver
+	water_flux_into_sea_water_from_rivers
+	505
+146
+	Virtual Salt Flux into Sea Water
+	vsf
+	virtual_salt_flux_into_sea_water
+	488
+147
+	Load of Seasalt
+	loadss
+	atmosphere_mass_content_of_seasalt_dry_aerosol
+	480
+148
+	ISCCP Mean Cloud Top Pressure
+	pctisccp
+	air_pressure_at_cloud_top
+	471
+149
+	Ocean Mass X Transport
+	umo
+	ocean_mass_x_transport
+	466
+150
+	Ocean Mass Y Transport
+	vmo
+	ocean_mass_y_transport
+	464
+151
+	Primary Organic Carbon Production by All Types of Phytoplankton
+	intpp
+	net_primary_mole_productivity_of_carbon_by_phytoplankton
+	461
+152
+	Surface Downward CO2 Flux
+	fgco2
+	surface_downward_co2_flux
+	457
+153
+	Square of Sea Surface Temperature
+	tossq
+	square_of_sea_surface_temperature
+	454
+154
+	Surface Temperature of Sea Ice
+	tsice
+	surface_temperature
+	454
+155
+	Mole Concentration of Diatoms expressed as Carbon in Sea Water
+	phydiat
+	mole_concentration_of_diatoms_expressed_as_carbon_in_sea_water
+	451
+156
+	Land Area Fraction
+	sftlf
+	land_area_fraction
+	447
+157
+	Load of Black Carbon Aerosol
+	loadbc
+	atmosphere_mass_content_of_black_carbon_dry_aerosol
+	425
+158
+	Load of Dust
+	loaddust
+	atmosphere_mass_content_of_dust_dry_aerosol
+	411
+159
+	cell index along second dimension
+	j
+	cell_index_along_second_dimension
+	410
+160
+	
+	lon_vertices
+	lon_vertices
+	410
+161
+	cell index along first dimension
+	i
+	cell_index_along_first_dimension
+	410
+162
+	
+	lat_vertices
+	lat_vertices
+	410
+163
+	Load of SO4
+	loadso4
+	atmosphere_mass_content_of_sulfate_dry_aerosol
+	407
+164
+	Sinking Calcite Flux
+	expcalc
+	sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water
+	405
+165
+	Ocean Heat Y Transport due to Diffussion
+	hfydiff
+	ocean_heat_y_transport_due_to_diffusion
+	403
+166
+	ISCCP Mean Cloud Albedo
+	albisccp
+	cloud_albedo
+	402
+167
+	Ocean Mixed Layer Thickness Defined by Sigma T
+	mlotst
+	ocean_mixed_layer_thickness_defined_by_sigma_t
+	398
+168
+	Ambient Aerosol Absorption Optical Thickness at 550 nm
+	abs550aer
+	atmosphere_absorption_optical_thickness_due_to_ambient_aerosol
+	388
+169
+	TOA Outgoing Longwave Radiation 4XCO2 Atmosphere
+	rlut4co2
+	toa_outgoing_longwave_flux
+	380
+170
+	Water Evaporation Flux Where Ice Free Ocean over Sea
+	evs
+	water_evaporation_flux
+	377
+171
+	Square of Sea Surface Height Above Geoid
+	zossq
+	square_of_sea_surface_height_above_geoid
+	374
+172
+	Surface Altitude
+	orog
+	surface_altitude
+	371
+173
+	Ocean Heat Y Transport due to Bolus Advection
+	hfyba
+	ocean_heat_y_transport_due_to_bolus_advection
+	357
+174
+	Ocean Heat X Transport due to Diffusion
+	hfxdiff
+	ocean_heat_x_transport_due_to_diffusion
+	355
+175
+	Ocean Heat X Transport due to Bolus Advection
+	hfxba
+	ocean_heat_x_transport_due_to_bolus_advection
+	351
+176
+	ISCCP Total Total Cloud Fraction
+	cltisccp
+	cloud_area_fraction
+	347
+177
+	Snowfall Flux where Ice Free Ocean over Sea
+	prsn
+	snowfall_flux
+	346
+178
+	Surface Downwelling Clear-Sky Longwave Radiation
+	rldscs
+	downwelling_longwave_flux_in_air_assuming_clear_sky
+	329
+179
+	Ocean Model Cell Thickness
+	thkcello
+	cell_thickness
+	320
+180
+	Downward Flux of Calcite
+	epcalc100
+	sinking_mole_flux_of_calcite_expressed_as_carbon_in_sea_water
+	318
+181
+	Atmosphere Grid-Cell Area
+	areacella
+	cell_area
+	310
+182
+	pH at Surface
+	ph
+	sea_water_ph_reported_on_total_scale
+	310
+183
+	Water Flux into Sea Water Without Flux Correction
+	wfonocorr
+	water_flux_into_sea_water_without_flux_correction
+	299
+184
+	Salt Flux into Sea Water from Rivers
+	sfriver
+	salt_flux_into_sea_water_from_rivers
+	292
+185
+	Square of Ocean Mixed Layer Thickness Defined by Sigma T
+	mlotstsq
+	square_of_ocean_mixed_layer_thickness_defined_by_sigma_t
+	290
+186
+	Dissolved Silicate Concentration at Surface
+	si
+	mole_concentration_of_silicate_in_sea_water
+	278
+187
+	Virtual Salt Flux Correction
+	vsfcorr
+	virtual_salt_flux_correction
+	277
+188
+	Natural Grass Fraction
+	grassFrac
+	area_fraction
+	275
+189
+	Ocean Grid-Cell Area
+	areacello
+	cell_area
+	268
+190
+	Virtual Salt Flux into Sea Water due to Evaporation
+	vsfevap
+	virtual_salt_flux_into_sea_water_due_to_evaporation
+	264
+191
+	Dissolved Inorganic Carbon Concentration
+	dissic
+	mole_concentration_of_dissolved_inorganic_carbon_in_sea_water
+	264
+192
+	Surface Daily Maximum Relative Humidity
+	rhsmax
+	relative_humidity
+	259
+193
+	Virtual Salt Flux into Sea Water From Rivers
+	vsfriver
+	virtual_salt_flux_into_sea_water_from_rivers
+	259
+194
+	Dissolved Iron Concentration
+	dfe
+	mole_concentration_of_dissolved_iron_in_sea_water
+	257
+195
+	Virtual Salt Flux into Sea Water due to Rainfall
+	vsfpr
+	virtual_salt_flux_into_sea_water_due_to_rainfall
+	257
+196
+	Mean Daily Maximum Ocean Mixed Layer Thickness Defined by Mixing Scheme
+	omldamax
+	ocean_mixed_layer_thickness_defined_by_mixing_scheme
+	256
+197
+	Dissolved Iron Concentration at Surface
+	dfe
+	mole_concentration_of_dissolved_iron_in_sea_water
+	256
+198
+	Tree Cover Fraction
+	treeFrac
+	area_fraction
+	250
+199
+	Carbon Mass in Vegetation
+	cVeg
+	vegetation_carbon_content
+	240
+200
+	Mole Concentration of Carbonate expressed as Carbon in Sea Water at Surface
+	co3
+	mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water
+	239
+201
+	Sea Area Fraction
+	sftof
+	sea_area_fraction
+	238
+202
+	Ambient Aerosol Extinction at 550 nm
+	ec550aer
+	volume_extinction_coefficient_in_air_due_to_ambient_aerosol
+	232
+203
+	Convective Cloud Area Fraction
+	clc
+	convective_cloud_area_fraction_in_atmosphere_layer
+	228
+204
+	Daily Maximum Ocean Mixed Layer Thickness Defined by Mixing Scheme
+	omldamax
+	ocean_mixed_layer_thickness_defined_by_mixing_scheme
+	228
+205
+	Carbon Mass Flux due to NPP Allocation to Leaf
+	nppLeaf
+	net_primary_productivity_of_carbon_accumulated_in_leaves
+	224
+206
+	pH
+	ph
+	sea_water_ph_reported_on_total_scale
+	219
+207
+	Ambient Fine Aerosol Optical Thickness at 550 nm
+	od550lt1aer
+	atmosphere_optical_thickness_due_to_pm1_ambient_aerosol
+	215
+208
+	Plant Functional Type Grid Fraction
+	landCoverFrac
+	area_fraction
+	210
+209
+	Updraft Convective Mass Flux
+	mcu
+	atmosphere_updraft_convective_mass_flux
+	209
+210
+	Crop Fraction
+	cropFrac
+	area_fraction
+	206
+211
+	Concentration of NO3 Aerosol
+	concno3
+	mass_concentration_of_nitrate_dry_aerosol_in_air
+	204
+212
+	Concentration of Biomass Burning Aerosol
+	concbb
+	mass_concentration_of_biomass_burning_dry_aerosol_in_air
+	200
+213
+	Stratiform Cloud Droplet Effective Radius
+	reffclws
+	effective_radius_of_stratiform_cloud_liquid_water_particle
+	195
+214
+	Dissolved Nitrate Concentration
+	no3
+	mole_concentration_of_nitrate_in_sea_water
+	195
+215
+	Ocean Grid-Cell Volume
+	volcello
+	ocean_volume
+	193
+216
+	omega (=dp/dt)
+	wap500
+	lagrangian_tendency_of_air_pressure
+	192
+217
+	Water Flux into Sea Water From Icebergs
+	ficeberg
+	water_flux_into_sea_water_from_icebergs
+	192
+218
+	Snow Internal Temperature
+	tsn
+	temperature_in_surface_snow
+	189
+219
+	Ambient Aerosol Opitical Thickness at 550 nm
+	od550aer
+	atmosphere_optical_thickness_due_to_ambient_aerosol
+	187
+220
+	Surface Downward Latent Heat Flux
+	hfls
+	surface_downward_latent_heat_flux
+	185
+221
+	Sea Floor Depth
+	deptho
+	sea_floor_depth_below_geoid
+	183
+222
+	Fraction of Time Convection Occurs
+	ci
+	fraction_of_time_convection_occurs
+	180
+223
+	Downward Flux of Particulate Iron
+	epfe100
+	sinking_mole_flux_of_particulate_iron_in_sea_water
+	177
+224
+	Convective Cloud Droplet Effective Radius
+	reffclwc
+	effective_radius_of_convective_cloud_liquid_water_particle
+	175
+225
+	Concentration of NH4
+	concnh4
+	mass_concentration_of_ammonium_dry_aerosol_in_air
+	175
+226
+	Dissolve Oxygen Concentration at Surface
+	o2
+	dissolve_oxygen_concentration_at_surface
+	169
+227
+	Dissolved Phosphate Concentration at Surface
+	po4
+	mole_concentration_of_phosphate_in_sea_water
+	168
+228
+	Daily Maximum Wind Speed
+	sfcWindmax
+	wind_speed
+	167
+229
+	X-Component of Sea Ice Velocity
+	usi
+	sea_ice_x_velocity
+	165
+230
+	Total Alkalinity
+	talk
+	sea_water_alkalinity_expressed_as_mole_equivalent
+	163
+231
+	X-Component of Atmospheric Stress On Sea Ice
+	strairx
+	surface_downward_x_stress
+	160
+232
+	Y-Component of Atmospheric Stress On Sea Ice
+	strairy
+	surface_downward_y_stress
+	160
+233
+	Moisture in Upper 0.1 m of Soil Column
+	mrsos
+	moisture_content_of_soil_layer
+	158
+234
+	Dissolved Phosphate Concentration
+	po4
+	mole_concentration_of_phosphate_in_sea_water
+	156
+235
+	Total Alkalinity at Surface
+	talk
+	sea_water_alkalinity_expressed_as_mole_equivalent
+	156
+236
+	Mass Fraction of Stratiform Cloud Liquid Water
+	clws
+	mass_fraction_of_stratiform_cloud_liquid_water_in_air
+	156
+237
+	Surface Snowfall Rate into the Sea Ice Portion of the Grid Cell
+	prsn
+	snowfall_flux
+	154
+238
+	Fraction of Grid Cell that is Land but Neither Vegetation-Covered nor Bare Soil
+	residualFrac
+	area_fraction
+	151
+239
+	Cloud Area Fraction in Atmosphere Layer
+	cl
+	cloud_area_fraction_in_atmosphere_layer
+	145
+240
+	Carbon Mass in Wood
+	cWood
+	wood_carbon_content
+	144
+241
+	ISCCP Cloud Area Fraction
+	clisccp
+	cloud_area_fraction_in_atmosphere_layer
+	140
+242
+	Mass Fraction of Convective Cloud Liquid Water
+	clwc
+	mass_fraction_of_convective_cloud_liquid_water_in_air
+	139
+243
+	Carbon Mass in Roots
+	cRoot
+	root_carbon_content
+	137
+244
+	Anthropogenic Pasture Fraction
+	pastureFrac
+	area_fraction
+	136
+245
+	Carbon Mass in Leaves
+	cLeaf
+	leaf_carbon_content
+	134
+246
+	Surface Concentration of NH4
+	sconcnh4
+	mass_concentration_of_ammonium_dry_aerosol_in_air
+	133
+247
+	Dissolved Organic Carbon Concentration at Surface
+	dissoc
+	mole_concentration_of_dissolved_organic_carbon_in_sea_water
+	131
+248
+	Dissolved Ammonium Concentration
+	nh4
+	mole_concentration_of_ammonium_in_sea_water
+	126
+249
+	Air Temperature
+	ta700
+	air_temperature
+	125
+250
+	Primary Organic Carbon Production by Diatoms
+	intpdiat
+	net_primary_mole_productivity_of_carbon_by_diatoms
+	124
+251
+	Carbon Mass in Litter Pool
+	cLitter
+	litter_carbon_content
+	122
+252
+	Pressure on Model Levels
+	pfull
+	air_pressure
+	119
+253
+	CALIPSO Cloud Fraction
+	clcalipso
+	cloud_area_fraction_in_atmosphere_layer
+	118
+254
+	Cloud Droplet Number Concentration
+	cdnc
+	number_concentration_of_cloud_liquid_water_particles_in_air
+	118
+255
+	PARASOL Reflectance
+	parasolRefl
+	toa_bidirectional_reflectance
+	114
+256
+	Rate of Melt at Sea Ice Base
+	bmelt
+	tendency_of_sea_ice_amount_due_to_basal_melting
+	112
+257
+	Carbon Mass in Fast Soil Pool
+	cSoilFast
+	fast_soil_pool_carbon_content
+	110
+258
+	Downwelling Longwave Radiation
+	rld
+	downwelling_longwave_flux_in_air
+	109
+259
+	Pressure on Model Half-Levels
+	phalf
+	air_pressure
+	109
+260
+	Ocean Y Overturning Mass Streamfunction due to Bolus Advection
+	msftyrhozba
+	ocean_y_overturning_mass_streamfunction_due_to_bolus_advection
+	108
+261
+	ISCCP Cloud Area Fraction
+	clisccp
+	isccp_cloud_area_fraction
+	108
+262
+	Carbon Mass in Medium Soil Pool
+	cSoilMedium
+	medium_soil_pool_carbon_content
+	107
+263
+	Carbon Mass in Products of Land Use Change
+	cProduct
+	carbon_content_of_products_of_anthropogenic_land_use_change
+	107
+264
+	Surface Downward O2 Flux
+	fgo2
+	surface_downward_mole_flux_of_molecular_oxygen
+	107
+265
+	Water Flux Correction
+	wfcorr
+	water_flux_correction
+	106
+266
+	Surface Concentration of NO3
+	sconcno3
+	mass_concentration_of_nitrate_dry_aerosol_in_air
+	105
+267
+	Calcite Concentration at Surface
+	calc
+	mole_concentration_of_calcite_expressed_as_carbon_in_sea_water
+	105
+268
+	Carbon Mass Flux due to NPP Allocation to Wood
+	nppWood
+	net_primary_productivity_of_carbon_accumulated_in_wood
+	104
+269
+	Y-Component of Sea Ice Velocity
+	vsi
+	sea_ice_y_velocity
+	104
+270
+	Total C3 PFT Cover Fraction
+	c3PftFrac
+	area_fraction
+	104
+271
+	Heat Flux Correction
+	hfcorr
+	heat_flux_correction
+	103
+272
+	Carbon Mass in Other Living Compartments on Land
+	cMisc
+	miscellaneous_living_matter_carbon_content
+	101
+273
+	Carbon Mass Flux due to NPP Allocation to Roots
+	nppRoot
+	net_primary_productivity_of_carbon_accumulated_in_roots
+	97
+274
+	Surface Aqueous Partial Pressure of CO2
+	spco2
+	surface_partial_pressure_of_carbon_dioxide_in_sea_water
+	97
+275
+	CALIPSO Total Cloud Fraction
+	cltcalipso
+	cloud_area_fraction
+	96
+276
+	Downwelling Clear-Sky Longwave Radiation
+	rldcs
+	downwelling_longwave_flux_in_air_assuming_clear_sky
+	96
+277
+	Snow-Ice Formation Rate
+	snoToIce
+	tendency_of_sea_ice_amount_due_to_snow_conversion
+	95
+278
+	Ambient Fine Aerosol Opitical Thickness at 550 nm
+	od550lt1aer
+	atmosphere_optical_thickness_due_to_pm1_ambient_aerosol
+	94
+279
+	Ambient Aerosol Opitical Thickness at 870 nm
+	od870aer
+	atmosphere_optical_thickness_due_to_ambient_aerosol
+	92
+280
+	Mole Concentration of Diatoms expressed as Carbon in Sea Water at Surface
+	phydiat
+	mole_concentration_of_diatoms_expressed_as_carbon_in_sea_water
+	89
+281
+	Dissolved Inorganic Carbon Content
+	intdic
+	ocean_mass_content_of_dissolved_inorganic_carbon
+	88
+282
+	Sea Surface Temperature
+	tso
+	sea_surface_temperature
+	88
+283
+	Total C4 PFT Cover Fraction
+	c4PftFrac
+	area_fraction
+	88
+284
+	Dissolved Oxygen Concentration
+	o2
+	dissolved_oxygen_concentration
+	88
+285
+	Snow Melt Rate
+	snomelt
+	surface_snow_melt_flux
+	88
+286
+	Surface Downward Y Stress Correction
+	tauvcorr
+	surface_downward_y_stress_correction
+	87
+287
+	Heat Flux into Sea Water due to Snow Thermodynamics
+	hfsnthermds
+	heat_flux_into_sea_water_due_to_snow_thermodynamics
+	87
+288
+	Mole Concentration of Carbonate expressed as Carbon in Sea Water
+	co3
+	mole_concentration_of_carbonate_expressed_as_carbon_in_sea_water
+	86
+289
+	Heat Flux into Sea Water due to Iceberg Thermodynamics
+	hfibthermds
+	heat_flux_into_sea_water_due_to_iceberg_thermodynamics
+	85
+290
+	Net Primary Mole Productivity of Carbon by Picophytoplankton
+	intppico
+	net_primary_mole_productivity_of_carbon_by_picophytoplankton
+	85
+291
+	Load of NH4
+	loadnh4
+	atmosphere_mass_content_of_ammonium_dry_aerosol
+	84
+292
+	Downwelling Shortwave over Sea Ice
+	rsdssi
+	surface_downwelling_shortwave_flux_in_air
+	84
+293
+	Ocean Y Overturning Mass Streamfunction due to Bolus Advection
+	msftyyzba
+	ocean_y_overturning_mass_streamfunction_due_to_bolus_advection
+	84
+294
+	Carbon Mass in Above-Ground Litter
+	cLitterAbove
+	surface_litter_carbon_content
+	83
+295
+	Surface Snow and Ice Sublimation Flux
+	sbl
+	water_sublimation_flux
+	83
+296
+	Rate of Melt at Upper Surface of Sea Ice
+	tmelt
+	tendency_of_sea_ice_amount_due_to_surface_melting
+	83
+297
+	Carbon Mass in Below-Ground Litter
+	cLitterBelow
+	subsurface_litter_carbon_content
+	81
+298
+	Carbon Mass in Slow Soil Pool
+	cSoilSlow
+	slow_soil_pool_carbon_content
+	81
+299
+	Downward Sea Ice Basal Salt Flux
+	sfdsi
+	downward_sea_ice_basal_salt_flux
+	80
+300
+	Dissolved Organic Carbon Concentration
+	dissoc
+	mole_concentration_of_dissolved_organic_carbon_in_sea_water
+	78
+301
+	Surface Downward Sensible Heat Flux
+	hfss
+	surface_downward_sensible_heat_flux
+	78
+302
+	Downward Carbon Flux at Ocean Bottom
+	frc
+	tendency_of_ocean_mole_content_of_carbon_due_to_sedimentation
+	77
+303
+	Rate of Change of Net Dissolved Inorganic Phosphate
+	fddtdip
+	tendency_of_ocean_mole_content_of_dissolved_inorganic_phosphorus
+	76
+304
+	Mole Fraction of SO2
+	concso2
+	mole_fraction_of_sulfur_dioxide_in_air
+	75
+305
+	Downward Flux of Particulate Silica
+	epsi100
+	sinking_mole_flux_of_particulate_silicon_in_sea_water
+	74
+306
+	Surface Downward Diffuse Shortwave Radiation
+	rsdsdiff
+	surface_downward_diffuse_shortwave_radiation
+	74
+307
+	Dissolved Silicate Concentration
+	si
+	mole_concentration_of_silicate_in_sea_water
+	73
+308
+	Ice Crystal Number Concentration of Cloud Tops
+	cldnci
+	number_concentration_of_ice_crystals_in_air_at_ice_cloud_top
+	73
+309
+	Sea Water Mass Per Unit Area
+	masscello
+	sea_water_mass_per_unit_area
+	72
+310
+	Total Emission Rate of NH3
+	eminh3
+	tendency_of_atmosphere_mass_content_of_ammonia_due_to_emission
+	72
+311
+	Total Carbon Mass Flux from Vegetation to Litter
+	fVegLitter
+	litter_carbon_flux
+	71
+312
+	Mole Fraction of CO2
+	co2
+	mole_fraction_of_carbon_dioxide_in_air
+	70
+313
+	Rate of Change of Net Dissolved Inorganic Carbon
+	fddtdic
+	tendency_of_ocean_mole_content_of_dissolved_inorganic_carbon
+	70
+314
+	Aragonite Concentration at Surface
+	arag
+	mole_concentration_of_aragonite_expressed_as_carbon_in_sea_water
+	70
+315
+	Surface Net Downward Longwave Radiation
+	rlds
+	surface_net_downward_longwave_flux
+	70
+316
+	Dissolved Oxygen Concentration at Surface
+	o2
+	dissolved_oxygen_concentration_at_surface
+	70
+317
+	ISCCP Total Cloud Fraction
+	cltisccp
+	cloud_area_fraction
+	69
+318
+	Upward Geothermal Heat Flux at Sea Floor
+	hfgeou
+	upward_geothermal_heat_flux_at_sea_floor
+	69
+319
+	Calcite Saturation Depth
+	zsatcalc
+	minimum_depth_of_calcite_undersaturation_in_sea_water
+	69
+320
+	Rate of Change of Net Dissolved Inorganic Nitrogen
+	fddtdin
+	tendency_of_ocean_mole_content_of_dissolved_inorganic_nitrogen
+	69
+321
+	Daily-Mean Wind Speed
+	sfcWind
+	wind_speed
+	68
+322
+	Rate of Change of Net Dissolved Inorganic Silicate
+	fddtdisi
+	tendency_of_ocean_mole_content_of_dissolved_inorganic_silicon
+	68
+323
+	Aragonite Saturation Depth
+	zsatarag
+	minimum_depth_of_aragonite_undersaturation_in_sea_water
+	67
+324
+	CALIPSO High Level Cloud Fraction
+	clhcalipso
+	cloud_area_fraction_in_atmosphere_layer
+	67
+325
+	CALIPSO Low Level Cloud Fraction
+	cllcalipso
+	cloud_area_fraction_in_atmosphere_layer
+	67
+326
+	Total Carbon Mass Flux from Litter to Soil
+	fLitterSoil
+	carbon_mass_flux_into_soil_from_litter
+	66
+327
+	Downward Flux of Aragonite
+	eparag100
+	sinking_mole_flux_of_aragonite_expressed_as_carbon_in_sea_water
+	66
+328
+	Iron Loss to Sediments
+	frfe
+	tendency_of_ocean_mole_content_of_iron_due_to_sedimentation
+	65
+329
+	Upwelling Shortwave Radiation
+	rsu
+	upwelling_shortwave_flux_in_air
+	65
+330
+	Fraction of Grid Cell Covered with Glacier
+	sftgif
+	land_ice_area_fraction
+	65
+331
+	Tendency of Air Temperature due to Diabatic Processes
+	tntmp
+	tendency_of_air_temperature_due_to_model_physics
+	65
+332
+	Ocean Y Overturning Mass Streamfunction
+	msftyyz
+	ocean_y_overturning_mass_streamfunction
+	64
+333
+	Tendency of Air Temperature due to Moist Convection
+	tntc
+	tendency_of_air_temperature_due_to_convection
+	64
+334
+	Rate of Change of Net Dissolved Inorganic Iron
+	fddtdife
+	tendency_of_ocean_mole_content_of_dissolved_inorganic_iron
+	63
+335
+	Net Primary Mole Productivity of Carbon by Diazotrophs
+	intpdiaz
+	net_primary_mole_productivity_of_carbon_by_diazotrophs
+	63
+336
+	Ocean Y Overturning Mass Streamfunction
+	msftyrhoz
+	ocean_y_overturning_mass_streamfunction
+	63
+337
+	Tendency of Specific Humidity due to Advection
+	tnhusa
+	tendency_of_specific_humidity_due_to_advection
+	62
+338
+	Tendency of Specific Humidity due to Diffusion
+	tnhusd
+	tendency_of_specific_humidity_due_to_diffusion
+	62
+339
+	Tendency of Specific Humidity due to Model Physics
+	tnhusmp
+	tendency_of_specific_humidity_due_to_model_physics
+	62
+340
+	CALIPSO Mid Level Cloud Fraction
+	clmcalipso
+	cloud_area_fraction_in_atmosphere_layer
+	62
+341
+	Ambient Aerosol Optical Thickness at 870 nm
+	od870aer
+	atmosphere_optical_thickness_due_to_ambient_aerosol
+	62
+342
+	Northward Atmospheric Stress On Sea Ice
+	strairy
+	surface_downward_y_stress
+	60
+343
+	Downwelling Clear-Sky Shortwave Radiation
+	rsdcs
+	downwelling_shortwave_flux_in_air_assuming_clear_sky
+	60
+344
+	Tendency of Specific Humidity due to Convection
+	tnhusc
+	tendency_of_specific_humidity_due_to_convection
+	60
+345
+	Tendency of Air Temperature due to Advection
+	tnta
+	tendency_of_air_temperature_due_to_advection
+	59
+346
+	Upwelling Clear-Sky Shortwave Radiation
+	rsucs
+	upwelling_shortwave_flux_in_air_assuming_clear_sky
+	59
+347
+	Upwelling Clear-Sky Longwave Radiation
+	rlucs
+	upwelling_longwave_flux_in_air_assuming_clear_sky
+	58
+348
+	Upwelling Longwave Radiation
+	rlu
+	upwelling_longwave_flux_in_air
+	57
+349
+	Downwelling Shortwave Radiation
+	rsd
+	downwelling_shortwave_flux_in_air
+	57
+350
+	Tendency of Air Temperature due to Radiative Heating
+	tntr
+	tendency_of_air_temperature_due_to_radiative_heating
+	56
+351
+	Tendency of Air Temperature
+	tnt
+	tendency_of_air_temperature
+	55
+352
+	Heat Flux into Sea Water due to Sea Ice Thermodynamics
+	hfsithermds
+	heat_flux_into_sea_water_due_to_sea_ice_thermodynamics
+	55
+353
+	Mole Fraction of DMS
+	concdms
+	mole_fraction_of_dimethyl_sulfide_in_air
+	54
+354
+	Surface Diffuse Downwelling Shortwave Radiation
+	rsdsdiff
+	surface_diffuse_downwelling_shortwave_flux_in_air
+	54
+355
+	Northward Wind
+	vas
+	northward_wind
+	53
+356
+	Total Primary Deciduous Tree Fraction
+	treeFracPrimDec
+	area_fraction
+	52
+357
+	Eastward Wind
+	uas
+	eastward_wind
+	51
+358
+	Tendency of Specific Humidity
+	tnhus
+	tendency_of_specific_humidity
+	51
+359
+	Shrub Fraction
+	shrubFrac
+	area_fraction
+	51
+360
+	Total Primary Evergreen Tree Cover Fraction
+	treeFracPrimEver
+	area_fraction
+	49
+361
+	Eastward Sea Ice Transport
+	transix
+	sea_ice_x_transport
+	48
+362
+	Sea Water Age Since Surface Contact
+	agessc
+	sea_water_age_since_surface_contact
+	48
+363
+	Region Selection Index
+	basin
+	region
+	45
+364
+	Downwelling Shortwave Radiation in Sea Water
+	rsds
+	downwelling_shortwave_flux_in_sea_water
+	44
+365
+	Dissolved Inorganic Carbon Concentration
+	dissic
+	dissolved_inorganic_carbon_concentration
+	43
+366
+	Surface Downward X Stress Correction
+	tauucorr
+	surface_downward_x_stress_correction
+	40
+367
+	Y-Component of Sea Ice Transport
+	transiy
+	sea_ice_y_transport
+	39
+368
+	Water Flux Into Sea Water
+	wfo
+	water_flux_into_sea_water
+	38
+369
+	Total Atmospheric Mass of CO2
+	co2mass
+	atmosphere_mass_of_carbon_dioxide
+	37
+370
+	Congelation Sea Ice Growth Rate
+	grCongel
+	tendency_of_sea_ice_amount_due_to_congelation_ice_accumulation
+	36
+371
+	Compressive Sea Ice Strength
+	streng
+	compressive_strength_of_sea_ice
+	34
+372
+	Sea Ice Mass Transport Through Fram Strait
+	transifs
+	sea_ice_transport_across_line
+	33
+373
+	Moles Per Unit Mass of CFC-11 in Sea Water
+	cfc11
+	moles_per_unit_mass_of_cfc11_in_sea_water
+	33
+374
+	Bacterial Carbon Concentration at Surface
+	bacc
+	mole_concentration_of_bacteria_expressed_as_carbon_in_sea_water
+	33
+375
+	Global Mean Mole Fraction of CH4
+	ch4global
+	mole_fraction_of_methane_in_air
+	32
+376
+	Sea Water Pressure at Sea Water Surface
+	pso
+	sea_water_pressure_at_sea_water_surface
+	32
+377
+	Northward Ocean Stress On Sea Ice
+	strocny
+	upward_y_stress_at_sea_ice_base
+	32
+378
+	Global Mean Mole Fraction of N2O
+	n2oglobal
+	mole_fraction_of_nitrous_oxide_in_air
+	31
+379
+	Sea Water Transport
+	mfo
+	sea_water_transport_across_line
+	31
+380
+	Northward sea ice transport
+	transiy
+	sea_ice_y_transport
+	31
+381
+	Lateral Sea Ice Growth Rate
+	grLateral
+	tendency_of_sea_ice_amount_due_to_lateral_growth_of_ice_floes
+	31
+382
+	Eastward Ocean Stress On Sea Ice
+	strocnx
+	upward_x_stress_at_sea_ice_base
+	30
+383
+	Eastward atmospheric stress on sea ice
+	strairx
+	surface_downward_x_stress
+	30
+384
+	Aerosol Number Concentration
+	conccn
+	number_concentration_of_ambient_aerosol_in_air
+	30
+385
+	Calcite Concentration
+	calc
+	mole_concentration_of_calcite_expressed_as_carbon_in_sea_water
+	30
+386
+	Global mean mole fraction of CFC-12
+	cfc12global
+	mole_fraction_of_cfc12_in_air
+	29
+387
+	Global mean mole fraction of HCFC-22
+	hcfc22global
+	mole_fraction_of_hcfc22_in_air
+	29
+388
+	Mean Daily Maximum Ocean Mixed Layer Thickness Defined by Mixing Scheme
+	omlmax
+	ocean_mixed_layer_thickness_defined_by_mixing_scheme
+	29
+389
+	Carbon in Soil Pool
+	cSoil
+	soil_carbon_content
+	29
+390
+	Global mean mole fraction of CFC-113
+	cfc113global
+	mole_fraction_of_cfc113_in_air
+	29
+391
+	Global mean mole fraction of CFC-11
+	cfc11global
+	mole_fraction_of_cfc11_in_air
+	29
+392
+	Eastward Sea Ice Velocity
+	usi
+	eastward_sea_ice_velocity
+	28
+393
+	Sublimation over Sea Ice
+	sblsi
+	surface_snow_and_ice_sublimation_flux
+	28
+394
+	Upward Shortwave over Sea Ice
+	rsussi
+	surface_upwelling_shortwave_flux_in_air
+	25
+395
+	Northward Sea Ice Velocity
+	vsi
+	northward_sea_ice_velocity
+	23
+396
+	Temperature at Interface Between Sea Ice and Snow
+	tsnint
+	sea_ice_surface_temperature
+	22
+397
+	Column Integrated Cloud Droplet Number
+	cldnvi
+	atmosphere_number_content_of_cloud_droplets
+	20
+398
+	Capacity of Soil to Store Water
+	mrsofc
+	soil_moisture_content_at_field_capacity
+	17
+399
+	TOA Outgoing Shortwave Radiation in 4XCO2 Atmosphere
+	rsut4co2
+	toa_outgoing_shortwave_flux
+	16
+400
+	Dimethyl Sulphide Concentration at Surface
+	dms
+	mole_concentration_of_dimethyl_sulfide_in_sea_water
+	15
+401
+	TOA Outgoing Clear-Sky Shortwave Radiation 4XCO2 Atmosphere
+	rsutcs4co2
+	toa_outgoing_shortwave_flux_assuming_clear_sky
+	15
+402
+	TOA Outgoing Clear-Sky Longwave Radiation 4XCO2 Atmosphere
+	rlutcs4co2
+	toa_outgoing_longwave_flux_assuming_clear_sky
+	15
+403
+	Maximum Root Depth
+	rootd
+	root_depth
+	13
+404
+	Net Carbon Mass Flux into Atmosphere due to Land Use Change
+	fLuc
+	net_carbon_mass_flux_into_atmosphere_due_to_land_use_change
+	12
+405
+	Surface Rainfall Rate into the Sea Ice Portion of the Grid Cell
+	pr
+	surface_rainfall_rate_into_the_sea_ice_portion_of_the_grid_cell
+	11
+406
+	Surface Upward DMS Flux
+	fgdms
+	surface_upward_mole_flux_of_dimethyl_sulfide
+	11
+407
+	Total Carbon Mass Flux from Vegetation Directly to Soil
+	fVegSoil
+	carbon_mass_flux_into_soil_from_vegetation_excluding_litter
+	10
+408
+	Heat Flux into Sea Water due to Frazil Ice Formation
+	hfsifrazil
+	heat_flux_into_sea_water_due_to_freezing_of_frazil_ice
+	9
+409
+	Carbon Mass in Products of Land Use Change
+	cProduct
+	carbon_mass_in_products_of_land_use_change
+	9
+410
+	Ice Crystal Number Concentration
+	inc
+	number_concentration_of_ice_crystals_in_air
+	9
+411
+	Surface Albedo as simulated by ISBA
+	albs
+	surface_albedo
+	9
+412
+	Total Carbon Mass Flux from Vegetation Directly to Soil
+	fVegSoil
+	total_carbon_mass_flux_from_vegetation_directly_to_soil
+	8
+413
+	Congelation Sea Ice Growth Rate
+	grCongel
+	congelation_sea_ice_growth_rate
+	8
+414
+	Downwelling Longwave Radiation 4XCO2 Atmosphere
+	rld4co2
+	downwelling_longwave_flux_in_air
+	8
+415
+	Areas of grid cell
+	areacello
+	areas_of_grid_cell
+	8
+416
+	Upwelling Clear-Sky Shortwave Radiation 4XCO2 Atmosphere
+	rsucs4co2
+	upwelling_shortwave_flux_in_air_assuming_clear_sky
+	8
+417
+	Downwelling Shortwave Radiation 4XCO2 Atmosphere
+	rsd4co2
+	downwelling_shortwave_flux_in_air
+	8
+418
+	Downwelling Clear-Sky Shortwave Radiation 4XCO2 Atmosphere
+	rsdcs4co2
+	downwelling_shortwave_flux_in_air_assuming_clear_sky
+	8
+419
+	Soil Frozen Water Content
+	mrlso
+	soil_frozen_water_content
+	8
+420
+	Bacterial Carbon Concentration
+	bacc
+	mole_concentration_of_bacteria_expressed_as_carbon_in_sea_water
+	8
+421
+	Upwelling Shortwave Radiation 4XCO2 Atmosphere
+	rsu4co2
+	upwelling_shortwave_flux_in_air
+	8
+422
+	Burnt Area Fraction
+	burntArea
+	area_fraction
+	7
+423
+	Downward Heat Flux at Sea Water Surface
+	hfds
+	downward_heat_flux_at_sea_water_surface
+	6
+424
+	Net Downward Shortwave Radiation at Sea Water Surface
+	rsntds
+	net_downward_shortwave_radiation_at_sea_water_surface
+	6
+425
+	Downwelling Clear-Sky Longwave Radiation 4XCO2 Atmosphere
+	rldcs4co2
+	downwelling_longwave_flux_in_air_assuming_clear_sky
+	6
+426
+	Upwelling Longwave Radiation 4XCO2 Atmosphere
+	rlu4co2
+	upwelling_longwave_flux_in_air
+	6
+427
+	Northward Ocean Heat Transport
+	hfbasin
+	northward_ocean_heat_transport
+	6
+428
+	Upwelling Clear-Sky Longwave Radiation 4XCO2 Atmosphere
+	rlucs4co2
+	upwelling_longwave_flux_in_air_assuming_clear_sky
+	6
+429
+	Eastward Sea Ice Transport
+	transix
+	eastward_sea_ice_transport
+	5
+430
+	Snow Internal Temperature
+	tsn
+	snow_temperature
+	5
+431
+	Downward Heat Flux into Snow Where Land over Land
+	hfdsn
+	downward_heat_flux_into_snow_where_land_over_land
+	5
+432
+	Surface Upward Latent Heat Flux over Sea Ice
+	hflssi
+	surface_upward_latent_heat_flux
+	5
+433
+	X-Component of Ocean Stress On Sea Ice
+	strocnx
+	upward_x_stress_at_sea_ice_base
+	5
+434
+	Liquid Water Content of Snow Layer
+	lwsnl
+	liquid_water_content_of_snow_layer
+	5
+435
+	Y-Component of Ocean Stress On Sea Ice
+	strocny
+	upward_y_stress_at_sea_ice_base
+	5
+436
+	Downwelling Long Wave over Sea Ice
+	rldssi
+	surface_downwelling_longwave_flux_in_air
+	4
+437
+	Surface Upward Sensible Heat Flux over Sea Ice
+	hfssi
+	surface_upward_sensible_heat_flux
+	4
+438
+	Strain Rate Divergence of Sea Ice
+	divice
+	strain_rate_divergence_of_sea_ice
+	4
+439
+	Sinking Particulate Iron Flux
+	expcfe
+	sinking_mole_flux_of_particulate_iron_in_sea_water
+	3
+440
+	Upward Long Wave over Sea Ice
+	rlussi
+	surface_upwelling_longwave_flux_in_air
+	3
+441
+	Snow Soot Content
+	sootsn
+	soot_content_of_surface_snow
+	3
+442
+	Temperature at Interface Between Sea Ice and Snow
+	tsnint
+	temperature_at_interface_between_sea_ice_and_snow
+	3
+443
+	Surface Snow Area Fraction
+	snc
+	surface_snow_area_fraction
+	3
+444
+	Surface Snowfall Rate into the Sea Ice Portion of the Grid Cell
+	prsn
+	surface_snowfall_rate_into_the_sea_ice_portion_of_the_grid_cell
+	3
+445
+	Sinking Particulate Silica Flux
+	expsi
+	sinking_mole_flux_of_particulate_silicon_in_sea_water
+	3
+446
+	Rate of Melt at Upper Surface of Sea Ice
+	tmelt
+	rate_of_melt_at_upper_surface_of_sea_ice
+	2
+447
+	Surface Upwelling Clear-Sky Shortwave Radiation
+	rluscs
+	surface_upwelling_shortwave_flux_in_air_assuming_clear_sky
+	2
+448
+	Sea Ice Ridging Rate
+	ridgice
+	tendency_of_sea_ice_area_fraction_due_to_ridging
+	2
+449
+	Northward Ocean Heat Transport due to Overturning
+	htovovrt
+	northward_ocean_heat_transport_due_to_overturning
+	2
+450
+	Northward Sea Ice Transport
+	transiy
+	northward_sea_ice_transport
+	2
+451
+	Surface Temperature of Sea Ice
+	tsice
+	surface_temperature_of_sea_ice
+	2
+452
+	Downward Shortwave over Sea Ice
+	rsdssi
+	surface_downwelling_shortwave_flux_in_air
+	2
+453
+	Age of Sea Ice
+	ageice
+	age_of_sea_ice
+	2
+454
+	Snow-Ice Formation Rate
+	snoToIce
+	snow-ice_formation_rate
+	1
+455
+	Surface Diffuse Downward Clear Sky Shortwave Radiation
+	rsdscsdiff
+	diffuse_downwelling_shortwave_flux_in_air_assuming_clear_sky
+	1
+456
+	Surface Temperature Where Land or Sea Ice
+	tslsi
+	surface_temperature
+	1
+457
+	Total Atmospheric Mass of CO2
+	co2mass
+	total_atmospheric_mass_of_co2
+	1
+458
+	Frazil Sea Ice Growth (Leads) Rate
+	grFrazil
+	frazil_sea_ice_growth_(leads)_rate
+	1
+459
+	Snow Melt Rate
+	snomelt
+	snow_melt_rate
+	1
+460
+	Ocean Meridional Overturning Mass Streamfunction
+	msftmrhoz
+	ocean_meridional_overturning_mass_streamfunction
+	1
+461
+	Rate of Melt at Sea Ice Base
+	bmelt
+	rate_of_melt_at_sea_ice_base
+	1

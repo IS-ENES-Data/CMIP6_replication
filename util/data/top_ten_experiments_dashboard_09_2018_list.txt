@@ -1,0 +1,33 @@
+#
+	Experiment
+	Value
+1
+	historical
+	418201
+2
+	rcp45
+	310450
+3
+	rcp85
+	225263
+4
+	piControl
+	140311
+5
+	historicalMisc
+	108017
+6
+	rcp26
+	61631
+7
+	rcp60
+	49026
+8
+	abrupt4xCO2
+	23346
+9
+	1pctCO2
+	18305
+10
+	past1000
+	17815

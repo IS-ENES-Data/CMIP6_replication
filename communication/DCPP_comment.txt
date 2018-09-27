@@ -1,0 +1,40 @@
+
+17.Sept.2018
+
+ich bin dir noch eine Liste mit Variablen für die Decadals schuldig.
+
+Habe gerade angefangen und bin dann bei der Suche auf die 
+halb-offizielle DCPP Liste gestoßen. Tatsächlich ist deren Prio 1 (ganz 
+vorne) von den angegebenen Variablen ganz nah an dem dran, was wir in 
+MiKlip auch festgelegt haben. Wenn wir sagen würden, das wäre wichtig 
+für den Datenbestand, wäre das glaube ich sinnvoll und mit der Liste 
+(Prio1) auch gut zu begründen. Wenn das am Ende zu viel wird (was ich 
+mir nicht vorstellen kann weil das meiste monatliche Daten sind), dann 
+kann man noch priorisieren Atmos->Ocean->Rest. Auch sollte man gucken, 
+dass man die passenden CMIP5 Daten nicht wegwirft.
+
+Für das geplante ClimXtreme Projekt ist das nochmal eine andere 
+Hausnummer, weil da viel zeitlich hochaufgelöst benötigt wird. Ich weiß, 
+dass die Kollegen in Karlsruhe schon eine Liste angefangen haben, 
+inwieweit das auf den DKRZ Datenbestand sollte und wieviel über den 
+MiKlip-Server abgefangen werden kann, sollte bei fortschreitender 
+Projektplanung nochmal diskutiert werden.
+
+Beste Grüße
+Christopher
+
+
+
+-- 
+Christopher Kadow
+Institute of Meteorology
+Freie Universität Berlin
+Climate System Modeling Working Group
+MiKlip - Integration - Project Coordination
+Carl-Heinrich-Becker Weg 6-10, Room 195 (NB/2)
+D-12165 Berlin
+Phone: +49 30 838-71122
+Fax: +49 30 838-71160
+Mail: christopher.kadow@met.fu-berlin.de
+Website: http://www.geo.fu-berlin.de/met/ag/klimod/MitarbeiterInnen/ChristopherKadow
+ResearchGate: https://www.researchgate.net/profile/Christopher_Kadow
