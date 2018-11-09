@@ -1,0 +1,1885 @@
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: abs550aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: albisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: albisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: albisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: albs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: albsrfc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: fx
+variable_name: areacella
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: IfxAnt
+variable_name: areacellg
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: lfxGre
+variable_name: areacellg
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Ofx
+variable_name: areacello
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: baresoilFrac
+---
+experiment: historical
+mip_table: Eyr
+variable_name: baresoilFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: burntArea
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: ccb
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: cct
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: ch4
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: monthly
+variable_name: chl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: chl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Oyr
+variable_name: chl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: chlcalc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: chldiaz
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: chlmisc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: chlos
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: chlpico
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: cl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: cl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: clcalipso
+---
+experiment: historical
+mip_table: Lmon
+variable_name: cLeaf
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: cli
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: cli
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfMon
+variable_name: clisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFmon
+variable_name: clisccp
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: clivi
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: clivi
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: clt
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: clt
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: cltisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: cltisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFmon
+variable_name: cltisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: cltisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: clw
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: clw
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: clwvi
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: clwvi
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: co
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: co2
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: co2flux
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: co2mass
+---
+experiment: historical
+mip_table: Lmon
+variable_name: cRoot
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: cropFrac
+---
+experiment: historical
+mip_table: Eyr
+variable_name: cropFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Emon
+variable_name: cSoil
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: cSoil
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: cVeg
+---
+experiment: historical
+mip_table: Emon
+variable_name: cWood
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: evspsbl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: fFire
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Emon
+variable_name: fFireAll
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Emon
+variable_name: fFireNat
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: fgco2
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: fgco2
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: gpp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: grassFrac
+---
+experiment: historical
+mip_table: Eyr
+variable_name: grassFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: hfds
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: hfds
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: hfls
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: hfls
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: hfss
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: hfss
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: hur
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: hurs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: hus
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: hus
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: lai
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: mlotst
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrbc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrdust
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrnh4
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrno3
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmroa
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrso4
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrsoa
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: mmrss
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: mrro
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: mrro
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: mrso
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: mrso
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: fx
+variable_name: mrsofc
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: mrsos
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: mrsos
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: mrsos
+---
+experiment: historical
+mip_table: Eday
+variable_name: mrsow
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: msftmyz
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: nbp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: nbp
+---
+experiment: historical
+mip_table: Emon
+variable_name: nep
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Emon
+variable_name: netAtmosLandCO2Flux
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Oyr
+variable_name: no3
+---
+experiment: historical
+mip_table: Lmon
+variable_name: npp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: o2
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: o3
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: od550aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: od550aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: od550lt1aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: od550lt1aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: od870aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: od870aer
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: fx
+variable_name: orog
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: pastureFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: pbo
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: pctisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: pctisccp
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: pctisccp
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: pr
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: pr
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: pr
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: prsn
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: prsn
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: prw
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: ps
+---
+experiment: '"piControl'
+mip_table: CFday
+variable_name: ps
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: psl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: psl
+---
+experiment: '"piControl'
+mip_table: E3hr
+variable_name: psl
+---
+experiment: historical
+mip_table: Lmon
+variable_name: ra
+---
+experiment: historical
+mip_table: Lmon
+variable_name: rh
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: 3hr
+variable_name: rlds
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rlds
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rlds
+---
+experiment: '"piControl'
+mip_table: day
+variable_name: rlds
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rldscs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rldscs
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rlus
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rlus
+---
+experiment: '"piControl'
+mip_table: day
+variable_name: rlus
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: 3hr
+variable_name: rlut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rlut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: rlut
+---
+experiment: '"piControl'
+mip_table: day
+variable_name: rlut
+---
+experiment: '"piControl'
+mip_table: E3hr
+variable_name: rlut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: 3hr
+variable_name: rlutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rlutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: rlutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: rlutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: rlutcs
+---
+experiment: '"piControl'
+mip_table: E3hr
+variable_name: rlutcs
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rsds
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsds
+---
+experiment: '"piControl'
+mip_table: day
+variable_name: rsds
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rsdscs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsdscs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsdt
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: rsdt
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rsus
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsus
+---
+experiment: '"piControl'
+mip_table: 3hr
+variable_name: rsuscs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsuscs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: 3hr
+variable_name: rsut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: rsut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: rsut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: rsut
+---
+experiment: '"piControl'
+mip_table: E3hr
+variable_name: rsut
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: 3hr
+variable_name: rsutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rsutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: rsutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: CFday
+variable_name: rsutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Cfsubhr
+variable_name: rsutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: rsutcs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: rtmt
+---
+experiment: historical
+mip_table: Eday
+variable_name: rzwc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: sconcbc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: sconcoa
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: sconcso4
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: fx
+variable_name: sftgif
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: fx
+variable_name: sftlf
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: fx
+variable_name: sftof
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: shrubFrac
+---
+experiment: historical
+mip_table: Eyr
+variable_name: shrubFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siage
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sialb
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siarean
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siareas
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: sic
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: sic
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: OImon
+variable_name: sic
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: siconc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siconc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siconca
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sidmasstranx
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sidmasstrany
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siextentn
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siextents
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sifb
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflcondbot
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflcondtop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sifllatstop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sifllwdtop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sifllwutop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflsenstop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflsensupbot
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflswdbot
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflswdtop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siflswutop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sihc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: simass
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sisnconc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sisnmass
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: sisnthick
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sisnthick
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: sispeed
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sispeed
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: OImon
+variable_name: sit
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sitempbot
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sitempsnic
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: sitemptop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sitemptop
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: sithick
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sithick
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: sitimefrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sitimefrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: siu
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siu
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SIday
+variable_name: siv
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: siv
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sivol
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sivoln
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: SImon
+variable_name: sivols
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: snc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: snc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: LImon
+variable_name: snc
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: LImon
+variable_name: sncIs
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: LImon
+variable_name: snd
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: OImon
+variable_name: snd
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: cfDay
+variable_name: snw
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: snw
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Eday
+variable_name: snw
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: LImon
+variable_name: snw
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: so
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: sos
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: monthly
+variable_name: spco2
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: spco2
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: ta
+---
+experiment: '"piControl'
+mip_table: day
+variable_name: ta
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: monthly
+variable_name: talk
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: talk
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tas
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: tas
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: tas
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tasmax
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: tasmax
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tasmin
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: tasmin
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tauu
+---
+experiment: '"piControl'
+mip_table: Eday
+variable_name: tauu
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tauv
+---
+experiment: '"piControl'
+mip_table: Eday
+variable_name: tauv
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: OImon
+variable_name: thetao
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: thetao
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tos
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: tos
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: toz
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: LImon
+variable_name: tpf
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: treeFrac
+---
+experiment: historical
+mip_table: Eyr
+variable_name: treeFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: tro3
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: AERmon
+variable_name: tropoz
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: ts
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Lmon
+variable_name: tsl
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: ua
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: ua
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: uas
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: umo
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: uo
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: va
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: va
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: vas
+---
+experiment: historical
+mip_table: Eyr
+variable_name: vegFrac
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: vmo
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: vo
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: wap
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: wap
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Amon
+variable_name: zg
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: day
+variable_name: zg
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: Omon
+variable_name: zos

@@ -1,0 +1,11 @@
+# Current ESMValTool variable list for CMIP6 evaluation     
+# August 31 2018
+# Contact for questions: Veronika Eyring (veronika.eyring@dlr.de) and Björn Brötz (Bjoern.Broetz@dlr.de)     
+#      
+---
+experiment:
+- DECK
+- historical
+- ScenarioMIP simulations
+mip_table: aero
+variable_name: abs550aer
