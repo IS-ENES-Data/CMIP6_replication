@@ -1,0 +1,10 @@
+#----------------------------------------------------------------
+# NCI Selection file CMIP6 Priority 1
+#-----------------------------------------------------------------
+mip_era=CMIP6
+activity_id=CMIP ScenarioMIP
+variable_id=cl clt evspsbl hfds hfls hfss hurs hus huss mrros mrsos msftmrhoz pr ps psl rho rlds rlus rlut rsds rsdt rsus rsut sfcWind siconc sithick so sos tas tasmax tasmin tauu tauv thetao tos ts ua uas uo va vas vo wap zg zos zosga orog sftlf areacello areacella
+table_id=AERmon Amon Omon Lmon SImon LImon fx
+experiment_id=piControl historical ssp585 ssp245
+member_id=r1i1p1f1 r1i1p1f2
+priority=10000

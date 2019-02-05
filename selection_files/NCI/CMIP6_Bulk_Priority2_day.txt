@@ -1,0 +1,10 @@
+#----------------------------------------------------------------
+# NCI Selection file CMIP6 Priority 3
+#-----------------------------------------------------------------
+mip_era=CMIP6
+activity_id=CMIP ScenarioMIP
+variable_id=hur hus ta ua va zg sfcWindmax
+table_id=AERday Oday SIday day
+experiment_id=piControl historical ssp585 ssp245
+member_id=r1i1p1f1 r1i1p1f2
+priority=2000

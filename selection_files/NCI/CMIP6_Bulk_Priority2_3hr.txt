@@ -1,0 +1,10 @@
+#----------------------------------------------------------------
+# NCI Selection file CMIP6 Priority 5
+#-----------------------------------------------------------------
+mip_era=CMIP6
+activity_id=CMIP ScenarioMIP
+variable_id=hfls hfss huss prc ps rlds rlus rsds rsus mrro
+table_id=3hr
+experiment_id=piControl historical ssp585 ssp245
+member_id=r1i1p1f1 r1i1p1f2
+priority=2000

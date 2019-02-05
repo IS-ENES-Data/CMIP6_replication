@@ -1,0 +1,10 @@
+#----------------------------------------------------------------
+# NCI Selection file CMIP6 Priority 2
+#-----------------------------------------------------------------
+mip_era=CMIP6
+activity_id=CMIP ScenarioMIP
+variable_id=cct cli clivi evap gpp hur mrro mrso msftbarot msftmyz omlmax prc prsn prw rldscs rlutcs rsdscs rsuscs rsutcs soga ta tauuo tauvo thetaoga thkcello tsl umo vmo wfo wmo zossga zostoga
+table_id=AERmon Amon Omon Lmon SImon LImon fx
+experiment_id=piControl historical ssp585 ssp245
+member_id=r1i1p1f1 r1i1p1f2
+priority=2000
