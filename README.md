@@ -8,12 +8,12 @@ See the [CMIP6 replication planing document](https://docs.google.com/document/d/
 
 ## Organization of repo
 
-* **doc**: CMIP6 replication related documents
+* **communication**: CMIP6 replication related documents, etc. 
 * **selection_files**: synda selection files for ESGF data replication
    * **CORE**: core CMIP6 data collection
    * **CEDA, DKRZ, IPSL, LLNL,NCI**: priority data collection at T1 center
    * **TEST**: data collections for replication testing 
-* **util**: various tools supporting e.g. synda selection file generation
+* **util**: various tools supporting e.g. automatic synda selection file generation
    * **MakeSelectionFiles**: tool to generate selection files based on CMIP6_CVs and user input
    * **data**: various lists, e.g. most oftenly used variables in CMIP6 (based on IPCC-WDC access statistics)
 * .. 
